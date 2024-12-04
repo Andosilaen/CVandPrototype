@@ -1,39 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My CV</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fernando Trisandi - CV & Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>John Doe</h1>
-        <p>Software Developer | IoT Specialist</p>
+  <div class="container">
+    <header class="header">
+      <h1>Fernando Trisandi</h1>
+      <p>Experienced IT Support Specialist & Project Manager</p>
+      <p>Contact: trisandifernando@gmail.com | +62 812 2076 5119</p>
+      <p>
+        LinkedIn: 
+        <a href="https://www.linkedin.com/in/fernandotrisandi/" target="_blank">linkedin.com/in/fernandotrisandi</a>
+      </p>
     </header>
+
     <main>
-        <section id="about">
-            <h2>About Me</h2>
-            <p>A highly motivated developer with experience in Laravel, React.js, and IoT technologies...</p>
-        </section>
-        <section id="skills">
-            <h2>Skills</h2>
-            <ul>
-                <li>Web Development: Laravel, React.js, JavaScript</li>
-                <li>Database Management: SQL, MySQL</li>
-                <li>Networking: LoRaWAN, IoT</li>
-            </ul>
-        </section>
-        <section id="projects">
-            <h2>Projects</h2>
-            <ul>
-                <li><a href="https://github.com/Andosilaen/CVandPrototype.git">Project 1</a> - Laravel-based application.</li>
-                <li><a href="https://github.com/Andosilaen/CVandPrototype.git">Project 2</a> - React.js single-page application.</li>
-            </ul>
-        </section>
+      <section class="about">
+        <h2>About Me</h2>
+        <p>Experienced IT Support Specialist and Project Manager with expertise in managing IT projects, solving technical issues, and leading teams to deliver high-quality results. Skilled in project planning, stakeholder management, and risk mitigation.</p>
+      </section>
+
+      <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>Project Management</li>
+          <li>Problem Solving</li>
+          <li>Creative Design</li>
+          <li>Networking (TCP/IP, Wireless, Mikrotik, IoT)</li>
+          <li>Service-Focused</li>
+          <li>Languages: Bahasa, English</li>
+        </ul>
+      </section>
+
+      <section class="experience">
+        <h2>Experience</h2>
+        <article>
+          <h3>Project Manager - PT. Dopay Aplikasi Indonesia (2023-Present)</h3>
+          <ul>
+            <li>Managed and oversaw software development projects from start to finish.</li>
+            <li>Developed project plans, including timelines, budgets, and resources.</li>
+            <li>Led teams of developers, designers, and QA to achieve project goals.</li>
+            <li>Maintained stakeholder communication and managed risks effectively.</li>
+          </ul>
+        </article>
+        <article>
+          <h3>IT Support Project Management - PT. Nexwave Indonesia (2021-2023)</h3>
+          <ul>
+            <li>Solved hardware, software, and network issues in office environments.</li>
+            <li>Specialized in IT support, networking, CCTV installation, and IoT projects.</li>
+            <li>Successfully delivered projects within budget and on time.</li>
+            <li>Established strong relationships with stakeholders for project success.</li>
+          </ul>
+        </article>
+      </section>
+
+      <section class="education">
+        <h2>Education</h2>
+        <p>Bachelor's Degree in Information Systems - STMIK LPKIA, Bandung (2007-2011)</p>
+      </section>
+
+      <section class="portfolio">
+        <h2>Portfolio</h2>
+        <p>Contact me for more details on completed projects and portfolio examples.</p>
+      </section>
     </main>
-    <footer>
-        <p>Contact: trisandifenando@gmail.com | <a href="https://linkedin.com/in/andosilaen">LinkedIn</a> | <a href="https://github.com/username">GitHub</a></p>
+
+    <footer class="footer">
+      <p>Address: JL. Salak No. 2, Kel. Sukapura, Kiaracondong, Bandung, Jawa Barat</p>
     </footer>
+  </div>
 </body>
 </html>
