@@ -27,13 +27,13 @@
         <section id="projects">
             <h2>Projects</h2>
             <ul>
-                <li><a href="https://github.com/username/project1">Project 1</a> - Laravel-based application.</li>
-                <li><a href="https://github.com/username/project2">Project 2</a> - React.js single-page application.</li>
+                <li><a href="https://github.com/Andosilaen/CVandPrototype.git">Project 1</a> - Laravel-based application.</li>
+                <li><a href="https://github.com/Andosilaen/CVandPrototype.git">Project 2</a> - React.js single-page application.</li>
             </ul>
         </section>
     </main>
     <footer>
-        <p>Contact: john.doe@gmail.com | <a href="https://linkedin.com/in/johndoe">LinkedIn</a> | <a href="https://github.com/username">GitHub</a></p>
+        <p>Contact: trisandifenando@gmail.com | <a href="https://linkedin.com/in/andosilaen">LinkedIn</a> | <a href="https://github.com/username">GitHub</a></p>
     </footer>
 </body>
 </html>
